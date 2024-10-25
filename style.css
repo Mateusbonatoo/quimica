@@ -1,0 +1,40 @@
+button{
+    background-color: transparent;
+    border: none;
+    width: 100px;
+
+    
+}
+ 
+
+.oito{
+    background-color: #77c7c4;
+    padding: 50px;
+}
+
+.oito2{
+    display: flex;
+    justify-content: center;
+    
+}
+.um{
+    display: flex;
+    justify-content: space-around;
+     }
+     .nove{
+        
+     }
+     .dex{
+        display: flex;
+        justify-content: space-around;
+     }
+     .puto{
+        display: flex;
+        justify-content: space-around;
+     }
+     .xiu{
+        
+     }
+     .foto1{
+        width: 500px;
+     }
